@@ -6,6 +6,8 @@ as also white label the parts if needed. You are always free to ask for white la
 
 you can use the above email for all contact needs. A Representativ or myself will investigate as fast as possible.
 
+It is maybe importent to say that this is using the [https://github.com/internet-of-presence/](https://github.com/internet-of-presence/IoP) Transport Layer with additional compat to the existing experimental implementations like HTTP3
+
 ## DIREKTSPEED Cloud Provider
 DIREKTSPEED Aims to draft the v1.0 Specs for GAIA-X while we do not even attend to the group as the Companys that are in that domain are far behind us in terms of Knowleg Gathering about Secure Cloud Services and how they work and get Maintained.
 
