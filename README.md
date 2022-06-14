@@ -57,3 +57,14 @@ The below listed Sponsor do Contribute Interlectual Property and drive the Stand
 https://ar.al/2020/01/01/in-2020-and-beyond-the-battle-to-save-personhood-and-democracy-requires-a-radical-overhaul-of-mainstream-technology/
 Our Part of the fight for freedom is that we know the fact that if we do not Create our own Gaia-X Standard they will do it like they always did it
 with bad design intend and everything that we need to leave behind us to get our Autonomy Back as a Person as a State as a Group as Everything we are but we are not other peoples dog food!
+
+# Direct Message to the EU!!
+1. Stop investing in startups and acting like Silicon Valley’s unpaid research and development department and invest in stayups instead.
+
+2. Create a noncommercial top-level domain (TLD) open to anyone in the world where anyone can register a domain name (with an automatic Let’s Encrypt certificate) for zero cost with a single API call.
+
+3. Build upon the previous step to offer every EU citizen, paid for by EU taxpayer money, a basic virtual private server with a basic amount of resources to host an always-on node in a peer-to-peer system that would unshackle them from the Googles and Facebooks of the world and create new opportunities for people to communicate privately as well as to express political will in a decentralised manner.
+
+And, in general, at the very least, it’s time for every one of us to pick a side. You Can use this your Self as Person to get The Control who owns your Data Back!
+
+The side you pick will decide whether we live as people or as products. The side you pick will decide whether we live in a democracy or under capitalism.
