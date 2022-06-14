@@ -25,3 +25,7 @@ GAIA-X Resources from diffrent Providers. This way we do not need to use the Ori
 - Kubernetes API's are supported for Migration and will have even 10+ Years Support
 - MesOS is hard deprecated and replaced by this package directly as this allows you to setup MesOS like Tasks via the cloud-provider/transaction package
 - to be continued.
+
+## Hosting Legacy Content
+To support Legacy Content HTTP/2 with Downgrade to HTTP/1.1 is Allowed while Websockets should get still deprecated asap and replaced by WebRTC
+This Eliminates the Needs for Loadbalancers as the WebRTC Endpoints do Handle the Client Communication see: ./security/* for Security Impact. Ask us Private for Mitigation Strategies if needed. via email frank+security-cloud-provider@dspeed.eu 
