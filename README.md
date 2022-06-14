@@ -20,6 +20,7 @@ GAIA-X Resources from diffrent Providers. This way we do not need to use the Ori
 - Websocket Implementations are Forbidden! Use HTTP Long Pooling with socket.io if you need so!
   - Also carefull designed as this is a HTTP1/1 feature so we deprecated that!
 - Internal Communication https://github.com/capnproto/capnproto a grpc succesor!
+- gRPC is Supported for Migration and has 10+ Years Support
 - Persistent Transactional Data can be in fleece/Couchbase/Kafka Format other formats are not supported as of time of writing. 
 - OpenStack API's are supported for Migration and will have even 10+ Years Support
 - Kubernetes API's are supported for Migration and will have even 10+ Years Support
