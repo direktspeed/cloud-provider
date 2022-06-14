@@ -70,3 +70,17 @@ with bad design intend and everything that we need to leave behind us to get our
 And, in general, at the very least, it’s time for every one of us to pick a side. You Can use this your Self as Person to get The Control who owns your Data Back!
 
 The side you pick will decide whether we live as people or as products. The side you pick will decide whether we live in a democracy or under capitalism.
+
+## Finally
+
+#### Install
+
+##### Snapd (confined-desktop-shell)
+
+##### npm package (development and systemwide deployment)
+
+#### Usage
+
+##### Snapd (confined-desktop-shell)
+
+##### npm package (development and systemwide deployment)
