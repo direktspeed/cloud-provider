@@ -11,7 +11,7 @@ We do that without any Profit Intend we do it because it Needs to get Done and w
 The @stealify/cloud-provider package is using the @stealify/platform (chromium++) to Offer Unified Desktop and Mobile Device Expirences as also to access
 GAIA-X Resources from diffrent Providers. This way we do not need to use the Original Provider API's and we can even implement our own API over the one from the Provider that reduces the convergences. 
 
-## GAIA-X Interface Specs
+## GAIA-X Interface Specs v1.0.0 (Draft Stage 3)
 - Quic/UDP Transactional + Transaction nonce
 - No HTTP < 3 and no HTTP without the S at the END! Only in Case of Binary and Dev
 - Cloudflare Implementation Gets used. HTTP3 Specs Implemented in Rust
