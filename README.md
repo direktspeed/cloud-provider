@@ -1,5 +1,10 @@
 # cloud-provider
-A Gui Interface for Maintaining/Deployment/Management of own GAIA-X Implementations and Services
+A Gui Interface for Maintaining/Deployment/Management of own GAIA-X Implementations and Services.
+
+Contains also the needed API Dependencies this is a MonoRepo to allow easy forking and Adoption
+as also white label the parts if needed. You are always free to ask for white label tools and services via email: frank+cloud-provider@dspeed.eu
+
+you can use the above email for all contact needs. A Representativ or myself will investigate as fast as possible.
 
 ## DIREKTSPEED Cloud Provider
 DIREKTSPEED Aims to draft the v1.0 Specs for GAIA-X while we do not even attend to the group as the Companys that are in that domain are far behind us in terms of Knowleg Gathering about Secure Cloud Services and how they work and get Maintained.
@@ -30,3 +35,19 @@ GAIA-X Resources from diffrent Providers. This way we do not need to use the Ori
 ## Hosting Legacy Content
 To support Legacy Content HTTP/2 with Downgrade to HTTP/1.1 is Allowed while Websockets should get still deprecated asap and replaced by WebRTC
 This Eliminates the Needs for Loadbalancers as the WebRTC Endpoints do Handle the Client Communication see: ./security/* for Security Impact. Ask us Private for Mitigation Strategies if needed. via email frank+security-cloud-provider@dspeed.eu 
+
+## Sponsors
+The below listed Sponsor do Contribute Interlectual Property and drive the Standard.
+- Apache Foundation
+- CNCF
+- Oracle
+- Microsoft
+- Google
+- Cloudflare
+- Couchbase
+- DIREKTSPEED
+- Frank Lemanschik - https://github.com/frank-dspeed
+- Murat Dogan - https://github.com/murat-dogan
+- Chromium
+- NodeJS
+- All Other Contributors Affiliates and People you know who you are! We will Try to work on a nice visual Graph stay tuned for that!
