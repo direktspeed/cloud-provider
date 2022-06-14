@@ -38,17 +38,17 @@ This Eliminates the Needs for Loadbalancers as the WebRTC Endpoints do Handle th
 
 ## Sponsors
 The below listed Sponsor do Contribute Interlectual Property and drive the Standard.
-- Apache Foundation
-- CNCF
+- Apache Foundation - Many good Open Source Projects
+- CNCF - Kubernets API Design and go implementation, As also Many good Open Source Projects.
 - Oracle GraalVM - Quarkus - ES4X special thanks as they gave us a total new way to run 30+ Coding Languages in the Cloud. 
-- Microsoft
-- Google
-- Cloudflare
-- Couchbase
-- DIREKTSPEED
-- Frank Lemanschik - https://github.com/frank-dspeed
-- Murat Dogan - https://github.com/murat-dogan
-- Ryan Dahl - https://github.com/ry
-- Chromium
-
+- Eclipse Foundation - VertX: => ES4X - Quarkus, Thaia IDE 
+- Microsoft - Github, Windows, Diverse Contributions to Open Source Projects we depend on, And Many More. 
+- Google - Android - Chrome - HTTP3- GRPC, Borg, Goma Compiler for chromium and many more!
+- Cloudflare - Interface Design and HTTP3
+- Couchbase - fleece data structure inspiration memcached improvements
+- DIREKTSPEED - Composition review Experiments the whole science behind this Project. 
+- Frank Lemanschik - https://github.com/frank-dspeed Main Engineer driving this forward
+- Murat Dogan - https://github.com/murat-dogan World Leading WebRTC Science and Engineering
+- Ryan Dahl - https://github.com/ry Like Minded Thinker v8 rust binding pioneer and c++ :) 
+- Chromium - Platform and Source Code Composition as also Security and Research and so much more without them this would not be possible.
 - All Other Contributors Affiliates and People you know who you are! We will Try to work on a nice visual Graph stay tuned for that!
