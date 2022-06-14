@@ -40,7 +40,7 @@ This Eliminates the Needs for Loadbalancers as the WebRTC Endpoints do Handle th
 The below listed Sponsor do Contribute Interlectual Property and drive the Standard.
 - Apache Foundation
 - CNCF
-- Oracle
+- Oracle GraalVM - Quarkus - ES4X special thanks as they gave us a total new way to run 30+ Coding Languages in the Cloud. 
 - Microsoft
 - Google
 - Cloudflare
@@ -48,6 +48,7 @@ The below listed Sponsor do Contribute Interlectual Property and drive the Stand
 - DIREKTSPEED
 - Frank Lemanschik - https://github.com/frank-dspeed
 - Murat Dogan - https://github.com/murat-dogan
+- Ryan Dahl - https://github.com/ry
 - Chromium
-- NodeJS
+
 - All Other Contributors Affiliates and People you know who you are! We will Try to work on a nice visual Graph stay tuned for that!
