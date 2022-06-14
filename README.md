@@ -22,12 +22,12 @@ GAIA-X Resources from diffrent Providers. This way we do not need to use the Ori
   - HTTP2 Including downgrade should only get used to Init WebRTC if you got no HTTP3 Endpoints.
 - Cloudflare Implementation Gets used. HTTP3 Specs Implemented in Rust
 - Memcached + KAFKA or Similar Transactional BUS needs to get used or Couchbase with the Correct Algorythms depending on your Scaling needs
-  - Message Bus Logs need to get storred in Raw Format and need to get retained for Audits at last 9 Month Retention Period. (The 9 Month got carefully choosen) 
+  - Message Bus Logs need to get storred in Raw Format and need to get retained for Audits at last 9 Month Retention Period. (The 9 Month got carefully choosen)
+  - Persistent Transactional Data can be in fleece/Couchbase/Kafka/git Format other formats are not supported as of time of writing. 
 - Websocket Implementations are Forbidden! Use HTTP Long Pooling with socket.io if you need so!
   - Also carefull designed as this is a HTTP1/1 feature so we deprecated that!
 - Internal Communication https://github.com/capnproto/capnproto a grpc succesor!
 - gRPC is Supported for Migration and has 10+ Years Support
-- Persistent Transactional Data can be in fleece/Couchbase/Kafka/git Format other formats are not supported as of time of writing. 
 - OpenStack API's are supported for Migration and will have even 10+ Years Support
 - Kubernetes API's are supported for Migration and will have even 10+ Years Support
 - MesOS is hard deprecated and replaced by this package directly as this allows you to setup MesOS like Tasks via the cloud-provider/transaction package
