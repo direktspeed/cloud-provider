@@ -19,6 +19,7 @@ GAIA-X Resources from diffrent Providers. This way we do not need to use the Ori
 ## GAIA-X Interface Specs v1.0.0 (Draft Stage 3)
 - Quic/UDP Transactional + Transaction nonce
 - No HTTP < 3 and no HTTP without the S at the END! Only in Case of Binary and Dev
+  - HTTP2 Including downgrade should only get used to Init WebRTC if you got no HTTP3 Endpoints.
 - Cloudflare Implementation Gets used. HTTP3 Specs Implemented in Rust
 - Memcached + KAFKA or Similar Transactional BUS needs to get used or Couchbase with the Correct Algorythms depending on your Scaling needs
   - Message Bus Logs need to get storred in Raw Format and need to get retained for Audits at last 9 Month Retention Period. (The 9 Month got carefully choosen) 
