@@ -55,3 +55,5 @@ The below listed Sponsor do Contribute Interlectual Property and drive the Stand
 
 ## Importent Readup why we do this for free
 https://ar.al/2020/01/01/in-2020-and-beyond-the-battle-to-save-personhood-and-democracy-requires-a-radical-overhaul-of-mainstream-technology/
+Our Part of the fight for freedom is that we know the fact that if we do not Create our own Gaia-X Standard they will do it like they always did it
+with bad design intend and everything that we need to leave behind us to get our Autonomy Back as a Person as a State as a Group as Everything we are but we are not other peoples dog food!
