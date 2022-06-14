@@ -52,3 +52,6 @@ The below listed Sponsor do Contribute Interlectual Property and drive the Stand
 - Ryan Dahl - https://github.com/ry Like Minded Thinker v8 rust binding pioneer and c++ :) 
 - Chromium - Platform and Source Code Composition as also Security and Research and so much more without them this would not be possible.
 - All Other Contributors Affiliates and People you know who you are! We will Try to work on a nice visual Graph stay tuned for that!
+
+## Importent Readup why we do this for free
+https://ar.al/2020/01/01/in-2020-and-beyond-the-battle-to-save-personhood-and-democracy-requires-a-radical-overhaul-of-mainstream-technology/
